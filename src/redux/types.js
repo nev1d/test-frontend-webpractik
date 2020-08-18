@@ -1,0 +1,8 @@
+export const CHOSE_MEAT = "CHOSE_MEAT"
+export const CHOSE_SPICY = "CHOSE_SPICY"
+export const CHOSE_CHEESE = "CHOSE_CHEESE"
+export const CHOSE_VEGAN = "CHOSE_VEGAN"
+export const CHOSE_ALL = "CHOSE_ALL"
+export const ADD_TO_CART = "ADD_TO_CART"
+export const REMOVE_FROM_CART = "REMOVE_FROM_CART"
+export const UPDATE_QUANTITY = "UPDATE_QUANTITY"
